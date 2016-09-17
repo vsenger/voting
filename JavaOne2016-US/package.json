@@ -1,0 +1,8 @@
+{
+    "name": "JavaOne2016-US",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Globalcode",
+    "contributors": [],
+    "dependencies": {}
+}
